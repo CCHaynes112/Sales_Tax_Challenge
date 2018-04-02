@@ -1,4 +1,4 @@
-LifeRay Sales Tax Challenge
+Sales Tax Challenge
 
 This application takes the input given from the challenge, and produces the specified output. It instantiates multiple Item classes and inserts them into an ArrayList inside a Cart class. It then performs some tax calculations on the items within the carts to obtain and display totals.
 
